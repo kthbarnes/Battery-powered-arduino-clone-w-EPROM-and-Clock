@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 1
 Title "battery powered arduino clone with clock and extended EPROM"
 Date "2020-06-27"
 Rev "1"
@@ -101,10 +101,4 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf" H 6150 3750 50 
 	1    6150 3750
 	1    0    0    -1  
 $EndComp
-$Sheet
-S 8350 3200 2200 2600
-U 5EFB4B62
-F0 "connector" 50
-F1 "Connectors1.sch" 50
-$EndSheet
 $EndSCHEMATC
