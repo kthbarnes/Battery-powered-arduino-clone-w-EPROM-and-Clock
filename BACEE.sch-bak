@@ -154,7 +154,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf" H 3100 6000 50 
 	1    3100 6000
 	1    0    0    -1  
 $EndComp
-Text GLabel 8500 3900 0    50   Output ~ 0
+Text GLabel 8600 3900 0    50   Output ~ 0
 MISO
 Text GLabel 6650 2600 0    50   Output ~ 0
 MISO
@@ -566,6 +566,4 @@ F15 "D8" B R 9700 4850 50
 F16 "D7" B R 9700 4750 50 
 F17 "MISO" O L 8600 3900 50 
 $EndSheet
-Wire Wire Line
-	8500 3900 8600 3900
 $EndSCHEMATC
