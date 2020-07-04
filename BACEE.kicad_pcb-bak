@@ -19,8 +19,8 @@
   )
 
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu power)
+    (31 B.Cu mixed)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -978,9 +978,9 @@
     )
   )
 
-  (gr_circle (center 126.46685 110.617) (end 125.19685 110.871) (layer Edge.Cuts) (width 0.05) (tstamp 5F008A07))
-  (gr_circle (center 126.46685 136.017) (end 125.19685 136.271) (layer Edge.Cuts) (width 0.05) (tstamp 5F0089FD))
-  (gr_circle (center 87.503 135.99185) (end 86.233 136.24585) (layer Edge.Cuts) (width 0.05) (tstamp 5F0089F1))
+  (gr_circle (center 126.46685 110.64215) (end 125.19685 110.89615) (layer Edge.Cuts) (width 0.05) (tstamp 5F008A07))
+  (gr_circle (center 126.46685 135.99185) (end 125.19685 136.24585) (layer Edge.Cuts) (width 0.05) (tstamp 5F0089FD))
+  (gr_circle (center 87.40115 135.99185) (end 86.13115 136.24585) (layer Edge.Cuts) (width 0.05) (tstamp 5F0089F1))
   (gr_circle (center 87.40115 110.64215) (end 86.13115 110.89615) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 85.598 137.033) (end 85.598 109.601) (layer Edge.Cuts) (width 0.05) (tstamp 5F008967))
   (gr_line (start 127.508 137.795) (end 86.36 137.795) (layer Edge.Cuts) (width 0.05))
